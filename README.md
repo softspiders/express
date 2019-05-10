@@ -12,7 +12,7 @@
 
 ## Direct code descendants
 
-* [puppeteer-jest](https://github.com/softspider/puppeteer-jest)
+[puppeteer-jest](https://github.com/softspider/puppeteer-jest)
 
 ---
 
