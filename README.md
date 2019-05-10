@@ -6,8 +6,8 @@
 
 ## Direct feature descendants
 
-[express-mongodb](https://github.com/softspider/express-mongodb)
-[mongoose-express](https://github.com/softspider/mongoose-express)
+* [express-mongodb](https://github.com/softspider/express-mongodb)
+* [mongoose-express](https://github.com/softspider/mongoose-express)
 
 ---
 
