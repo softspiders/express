@@ -10,6 +10,10 @@
 * [mongoose-express](https://github.com/softspider/mongoose-express)
 * [puppeteer-jest](https://github.com/softspider/puppeteer-jest)
 
+## Direct code descendants
+
+* [puppeteer-jest](https://github.com/softspider/puppeteer-jest)
+
 ---
 
 ## Installation
