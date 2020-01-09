@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # Simplest express application
 
 
@@ -9,15 +11,11 @@
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
 
-## Direct feature descendants
+## Direct descendants
 
 * [express-mongodb](https://github.com/softspider/express-mongodb)
 * [mongoose-express](https://github.com/softspider/mongoose-express)
-* [puppeteer-jest](https://github.com/softspider/puppeteer-jest)
-
-## Direct code descendants
-
-[puppeteer-jest](https://github.com/softspider/puppeteer-jest)
+* [puppeteer-jest](https://github.com/softspider/puppeteer-jest) - also by code
 
 ---
 
