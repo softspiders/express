@@ -13,9 +13,9 @@ SOFTSPIDERS
 
 ## Direct descendants
 
-* [express-mongodb](https://github.com/softspider/express-mongodb)
-* [mongoose-express](https://github.com/softspider/mongoose-express)
-* [puppeteer-jest](https://github.com/softspider/puppeteer-jest) - also by code
+* [express-mongodb](https://github.com/softspiders/express-mongodb)
+* [mongoose-express](https://github.com/softspiders/mongoose-express)
+* [puppeteer-jest](https://github.com/softspiders/puppeteer-jest) - also by code
 
 ---
 
