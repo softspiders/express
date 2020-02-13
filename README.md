@@ -11,8 +11,6 @@
 
 ---
 
-[Node.js](https://nodejs.org/en/download/package-manager/)
-
 ## Direct descendants
 
 * [express-mongodb](https://github.com/softspiders/express-mongodb)
@@ -22,6 +20,8 @@
 ---
 
 ## Requirements
+
+[Node.js](https://nodejs.org/en/download/package-manager/)
 
 ---
 
