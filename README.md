@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # Simplest express application
 
@@ -6,8 +6,10 @@ SOFTSPIDERS
 ## Feature tags
 
 - express
+- starter
+- template
 
-## Requirements
+---
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
 
@@ -16,6 +18,10 @@ SOFTSPIDERS
 * [express-mongodb](https://github.com/softspiders/express-mongodb)
 * [mongoose-express](https://github.com/softspiders/mongoose-express)
 * [puppeteer-jest](https://github.com/softspiders/puppeteer-jest) - also by code
+
+---
+
+## Requirements
 
 ---
 
