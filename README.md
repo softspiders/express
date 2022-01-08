@@ -16,6 +16,7 @@
 * [express-mongodb](https://github.com/softspiders/express-mongodb)
 * [mongoose-express](https://github.com/softspiders/mongoose-express)
 * [puppeteer-jest](https://github.com/softspiders/puppeteer-jest) - also by code
+* [***-openapi-backend***: express_openapi-backend](https://github.com/AlexanderLapygin/express_openapi-backend)
 
 ---
 
